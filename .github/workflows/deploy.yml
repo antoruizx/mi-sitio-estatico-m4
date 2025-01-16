@@ -21,7 +21,7 @@ jobs:
         aws-region: us-east-1
 
     - name: Sync files to S3
-      run: aws s3 sync . s3://mi-sitio-estatico-bucket --delete
+      run: aws s3 sync . s3://mi-sitio-estatico-m4 --delete
 
     - name: Invalidate CloudFront cache
-      run: aws cloudfront create-invalidation --distribution-id YOUR_DISTRIBUTION_ID --paths "/*"
+      run: aws cloudfront create-invalidation --distribution-id E3RKJZ0V3249PR --paths "/*"
