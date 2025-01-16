@@ -1,4 +1,4 @@
-## Proyecto AWS con S3, CloudFront y GitHub Actions
+## Desafío M4
 
 Configuración para desplegar un sitio web estático utilizando S3 y CloudFront en AWS, con automatización a través de GitHub Actions.
 
@@ -34,7 +34,7 @@ Realicé cambios en el código y validé que se reflejaran automáticamente en e
 
 ## Requisitos presentados
 
-**Cuenta en AWS**
-**Cuenta en GitHub**
-**GitHub Actions configurado con secretos para las credenciales de AWS**
+**Cuenta en AWS**,
+**Cuenta en GitHub**,
+**GitHub Actions configurado con secretos para las credenciales de AWS**.
 
