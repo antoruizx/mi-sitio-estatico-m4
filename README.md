@@ -38,3 +38,7 @@ Realicé cambios en el código y validé que se reflejaran automáticamente en e
 **Cuenta en GitHub**,
 **GitHub Actions configurado con secretos para las credenciales de AWS**.
 
+Link de la distribución creada:
+
+d57k8et8pjm2h.cloudfront.net
+
